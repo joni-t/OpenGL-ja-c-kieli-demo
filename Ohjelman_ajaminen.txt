@@ -1,0 +1,4 @@
+gcc harkka.c ño harkka ñlGL ñlglut
+
+
+ConsoleApplication1-kansiossa ohjelma on viritetty Microsoft Visual Studio 2017:oon, mutta muutamia ominaisuuksia on kommentoitu pois (tekstuurin lis‰‰minen pinnalle).

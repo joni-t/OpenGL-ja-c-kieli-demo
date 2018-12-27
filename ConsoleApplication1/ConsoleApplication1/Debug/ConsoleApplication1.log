@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+g:\vanha matsku\grafiikka\harjoitustyo\opengl-ja-c-kieli-demo\consoleapplication1\consoleapplication1\consoleapplication1.cpp(519): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+g:\vanha matsku\grafiikka\harjoitustyo\opengl-ja-c-kieli-demo\consoleapplication1\consoleapplication1\consoleapplication1.cpp(537): warning C4101: 'j': unreferenced local variable
+g:\vanha matsku\grafiikka\harjoitustyo\opengl-ja-c-kieli-demo\consoleapplication1\consoleapplication1\consoleapplication1.cpp(537): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> G:\Vanha matsku\Grafiikka\Harjoitustyo\OpenGL-ja-c-kieli-demo\ConsoleApplication1\Debug\ConsoleApplication1.exe
